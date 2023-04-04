@@ -1,6 +1,6 @@
 {
-    "name": "voicegpt",
-    "short_name": "voicegpt",
+    "name": "voice_chatgpt",
+    "short_name": "voice_chatgpt",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
